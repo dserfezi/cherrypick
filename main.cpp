@@ -3,6 +3,7 @@
 int main()
 {
 	cout << "Hello";
+	cout << " world";
 
 	int a;
 	a = 2;
